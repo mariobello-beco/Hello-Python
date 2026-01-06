@@ -1,0 +1,11 @@
+# Archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Configuración local
+.env
+.DS_Store
+
+# Logs
+*.log
